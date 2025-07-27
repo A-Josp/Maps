@@ -1,4 +1,6 @@
-Integrantes:
+Mapa parada de buses o taxi con OSM
+
+Integrantes Grupo #2:
 Luis Enrique Ortiz Aguilar - 201810120010
 Carlos Dario Garcia Villalvir - 202210011005
 Anthony Joseph Gutierrez - 202210050194
